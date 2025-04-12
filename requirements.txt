@@ -1,0 +1,19 @@
+
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch==2.3.0 
+torchvision==0.18.0
+omegaconf
+einops
+ftfy
+pytorch-lightning
+fairscale
+beartype
+h5py
+transformers
+decord
+git+https://github.com/nottombrown/imagenet_stubs
+six
+timm
+imageio
+numpy==1.24.1
